@@ -34,9 +34,9 @@ void Var1::Run(void) {
 	return;
 }
 void Var1::Print(void) {
-	cout << "Значения полей класса:" << endl <<
+	cout << "Г‡Г­Г Г·ГҐГ­ГЁГї ГЇГ®Г«ГҐГ© ГЄГ«Г Г±Г±Г :" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Ответ: t=" << this->t << endl;
+		"ГЋГІГўГҐГІ: t=" << this->t << endl;
 	return;
 }
 
@@ -74,9 +74,9 @@ void Var2::Run(void) {
 				);
 }
 void Var2::Print(void) {
-	cout << "Значения полей класса:" << endl <<
+	cout << "Г‡Г­Г Г·ГҐГ­ГЁГї ГЇГ®Г«ГҐГ© ГЄГ«Г Г±Г±Г :" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Ответ: u=" << this->u << endl;
+		"ГЋГІГўГҐГІ: u=" << this->u << endl;
 	return;
 }
 
@@ -109,9 +109,9 @@ void Var3::Run(void) {
 	return;
 }
 void Var3::Print(void) {
-	cout << "Значения полей класса:" << endl <<
+	cout << "Г‡Г­Г Г·ГҐГ­ГЁГї ГЇГ®Г«ГҐГ© ГЄГ«Г Г±Г±Г :" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Ответ: v=" << this->v << endl;
+		"ГЋГІГўГҐГІ: v=" << this->v << endl;
 	return;
 }
 
@@ -145,9 +145,9 @@ void Var4::Run(void) {
 	return;
 }
 void Var4::Print(void) {
-	cout << "Значения полей класса:" << endl <<
+	cout << "Г‡Г­Г Г·ГҐГ­ГЁГї ГЇГ®Г«ГҐГ© ГЄГ«Г Г±Г±Г :" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Ответ: w=" << this->w << endl;
+		"ГЋГІГўГҐГІ: w=" << this->w << endl;
 	return;
 }
 
@@ -179,9 +179,9 @@ void Var5::Run(void) {
 		(sin(atan(this->z)) * sin(atan(this->z)));
 }
 void Var5::Print(void) {
-	cout << "Значения полей класса:" << endl <<
+	cout << "Г‡Г­Г Г·ГҐГ­ГЁГї ГЇГ®Г«ГҐГ© ГЄГ«Г Г±Г±Г :" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Ответ: alpha=" << this->alpha << endl;
+		"ГЋГІГўГҐГІ: alpha=" << this->alpha << endl;
 	return;
 }
 
@@ -213,9 +213,9 @@ void Var6::Run(void) {
 		(asin(this->z) * asin(this->z) - fabs(this->x - this->y));
 }
 void Var6::Print(void) {
-	cout << "Значения полей класса:" << endl <<
+	cout << "Г‡Г­Г Г·ГҐГ­ГЁГї ГЇГ®Г«ГҐГ© ГЄГ«Г Г±Г±Г :" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Ответ: beta=" << this->beta << endl;
+		"ГЋГІГўГҐГІ: beta=" << this->beta << endl;
 	return;
 }
 
@@ -252,9 +252,9 @@ void Var7::Run(void) {
 	return;
 }
 void Var7::Print(void) {
-	cout << "Значения полей класса:" << endl <<
+	cout << "Г‡Г­Г Г·ГҐГ­ГЁГї ГЇГ®Г«ГҐГ© ГЄГ«Г Г±Г±Г :" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Ответ: gamma=" << this->gamma << endl;
+		"ГЋГІГўГҐГІ: gamma=" << this->gamma << endl;
 	return;
 }
 
@@ -289,9 +289,9 @@ void Var8::Run(void) {
 	return;
 }
 void Var8::Print(void) {
-	cout << "Значения полей класса:" << endl <<
+	cout << "Г‡Г­Г Г·ГҐГ­ГЁГї ГЇГ®Г«ГҐГ© ГЄГ«Г Г±Г±Г :" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Ответ: phi=" << this->phi << endl;
+		"ГЋГІГўГҐГІ: phi=" << this->phi << endl;
 	return;
 }
 
@@ -324,9 +324,9 @@ void Var9::Run(void) {
 	return;
 }
 void Var9::Print(void) {
-	cout << "Значения полей класса:" << endl <<
+	cout << "Г‡Г­Г Г·ГҐГ­ГЁГї ГЇГ®Г«ГҐГ© ГЄГ«Г Г±Г±Г :" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Ответ: psi=" << this->psi << endl;
+		"ГЋГІГўГҐГІ: psi=" << this->psi << endl;
 	return;
 }
 
@@ -364,9 +364,9 @@ void Var10::Run() {
 	return;
 }
 void Var10::Print(void) {
-	cout << "Значения полей класса:" << endl <<
+	cout << "Г‡Г­Г Г·ГҐГ­ГЁГї ГЇГ®Г«ГҐГ© ГЄГ«Г Г±Г±Г :" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Ответ: b=" << this->b << endl;
+		"ГЋГІГўГҐГІ: b=" << this->b << endl;
 	return;
 }
 
@@ -404,9 +404,9 @@ void Var11::Run(void) {
 	return;
 }
 void Var11::Print(void) {
-	cout << "Значения полей класса:" << endl <<
+	cout << "Г‡Г­Г Г·ГҐГ­ГЁГї ГЇГ®Г«ГҐГ© ГЄГ«Г Г±Г±Г :" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Ответ: c=" << this->c << endl;
+		"ГЋГІГўГҐГІ: c=" << this->c << endl;
 	return;
 }
 
@@ -439,9 +439,9 @@ void Var12::Run(void) {
 	return;
 }
 void Var12::Print(void) {
-	cout << "Значения полей класса:" << endl <<
+	cout << "Г‡Г­Г Г·ГҐГ­ГЁГї ГЇГ®Г«ГҐГ© ГЄГ«Г Г±Г±Г :" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Ответ: f=" << this->f << endl;
+		"ГЋГІГўГҐГІ: f=" << this->f << endl;
 	return;
 }
 
@@ -475,9 +475,9 @@ void Var13::Run(void) {
 		pow(this->x + 1., -1. / sin(this->z));
 }
 void Var13::Print(void) {
-	cout << "Значения полей класса:" << endl <<
+	cout << "Г‡Г­Г Г·ГҐГ­ГЁГї ГЇГ®Г«ГҐГ© ГЄГ«Г Г±Г±Г :" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Ответ: g=" << this->g << endl;
+		"ГЋГІГўГҐГІ: g=" << this->g << endl;
 	return;
 }
 
@@ -514,9 +514,9 @@ void Var14::Run() {
 	return;
 }
 void Var14::Print(void) {
-	cout << "Значения полей класса:" << endl <<
+	cout << "Г‡Г­Г Г·ГҐГ­ГЁГї ГЇГ®Г«ГҐГ© ГЄГ«Г Г±Г±Г :" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Ответ: h=" << this->h << endl;
+		"ГЋГІГўГҐГІ: h=" << this->h << endl;
 	return;
 }
 
@@ -524,35 +524,17 @@ void Var14::Print(void) {
 int main() {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-
-	double x = 0.0374, y = -0.825, z = 16;
-	Var3 Result;
-	Result.Set(x, y, z);
-	cout << "Result:" << endl;
-	Result.Run();
-	Result.Print();
-
-	Var3* pResult = &Result;  // указатель на Var3 — адрес объекта Result
-	pResult->Set(0, 0, 0);    // обнуляем
-	cout << endl << "pResult:" << endl;
-	pResult->Set(x, y, z);    // устанавливаем значение полей x, y и z
-	pResult->Run();           // вычисляем значение v заново
-	pResult->Print();
-
-	Var3* nResult = new Var3; // динамически созданный объект класса Var3
-	nResult->Set(x, y, z);
-	cout << endl << endl << "nResult:" << endl;
-	nResult->Run();
-	nResult->Print();
-
-	Var3& sResult = *pResult;   // ссылка на то, куда указывает pResult — на объект класса Var3
-	sResult.Set(0, 0, 0);
-	sResult.Set(x, y, z);
-	cout << endl << endl << "sResult:" << endl;
-	sResult.Run();
-	sResult.Print();
 	
-	//double x = 3.74e-2, y = -0.825, z = 0.16e2;
+	// double x = 3.74e-2, y = -0.825, z = 0.16e2;
+	double x, y, z;
+	
+	
+	x = 14.26, y = -1.22, z = 3.5e-2;
+	cout << endl << "Variant 1" << endl;
+	Var1 solution11;
+	solution11.Set(x, y, z);
+	solution11.Run();
+	solution11.Print();
 	
 	/*
 	Var3 solution31;
@@ -577,14 +559,7 @@ int main() {
 	cout << "solution4:\t"; solution34.Print();  cout << endl;
 	*/
 
-	/*
-	x = 14.26, y = -1.22, z = 3.5e-2;
-	cout << endl << "Variant 1" << endl;
-	Var1 solution11;
-	solution11.Set(x, y, z);
-	solution11.Run();
-	solution11.Print();
-	*/
+	
 
 	/*
 	x = -4.5, y = .75e-4, z = .845e2;
