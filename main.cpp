@@ -34,9 +34,9 @@ void Var1::Run(void) {
 	return;
 }
 void Var1::Print(void) {
-	cout << "Çíà÷åíèÿ ïîëåé êëàññà:" << endl <<
+	cout << "Class fields values:" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Îòâåò: t=" << this->t << endl;
+		"Answer: t=" << this->t << endl;
 	return;
 }
 
@@ -74,9 +74,9 @@ void Var2::Run(void) {
 				);
 }
 void Var2::Print(void) {
-	cout << "Çíà÷åíèÿ ïîëåé êëàññà:" << endl <<
+	cout << "Class fields values:" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Îòâåò: u=" << this->u << endl;
+		"Answer: u=" << this->u << endl;
 	return;
 }
 
@@ -109,9 +109,9 @@ void Var3::Run(void) {
 	return;
 }
 void Var3::Print(void) {
-	cout << "Çíà÷åíèÿ ïîëåé êëàññà:" << endl <<
+	cout << "Class fields values:" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Îòâåò: v=" << this->v << endl;
+		"Answer: v=" << this->v << endl;
 	return;
 }
 
@@ -145,9 +145,9 @@ void Var4::Run(void) {
 	return;
 }
 void Var4::Print(void) {
-	cout << "Çíà÷åíèÿ ïîëåé êëàññà:" << endl <<
+	cout << "Class fields values:" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Îòâåò: w=" << this->w << endl;
+		"Answer: w=" << this->w << endl;
 	return;
 }
 
@@ -179,9 +179,9 @@ void Var5::Run(void) {
 		(sin(atan(this->z)) * sin(atan(this->z)));
 }
 void Var5::Print(void) {
-	cout << "Çíà÷åíèÿ ïîëåé êëàññà:" << endl <<
+	cout << "Class fields values:" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Îòâåò: alpha=" << this->alpha << endl;
+		"Answer: alpha=" << this->alpha << endl;
 	return;
 }
 
@@ -213,9 +213,9 @@ void Var6::Run(void) {
 		(asin(this->z) * asin(this->z) - fabs(this->x - this->y));
 }
 void Var6::Print(void) {
-	cout << "Çíà÷åíèÿ ïîëåé êëàññà:" << endl <<
+	cout << "Class fields values:" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Îòâåò: beta=" << this->beta << endl;
+		"Answer: beta=" << this->beta << endl;
 	return;
 }
 
@@ -252,9 +252,9 @@ void Var7::Run(void) {
 	return;
 }
 void Var7::Print(void) {
-	cout << "Çíà÷åíèÿ ïîëåé êëàññà:" << endl <<
+	cout << "Class fields values:" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Îòâåò: gamma=" << this->gamma << endl;
+		"Answer: gamma=" << this->gamma << endl;
 	return;
 }
 
@@ -289,9 +289,9 @@ void Var8::Run(void) {
 	return;
 }
 void Var8::Print(void) {
-	cout << "Çíà÷åíèÿ ïîëåé êëàññà:" << endl <<
+	cout << "Class fields values:" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Îòâåò: phi=" << this->phi << endl;
+		"Answer: phi=" << this->phi << endl;
 	return;
 }
 
@@ -324,9 +324,9 @@ void Var9::Run(void) {
 	return;
 }
 void Var9::Print(void) {
-	cout << "Çíà÷åíèÿ ïîëåé êëàññà:" << endl <<
+	cout << "Class fields values:" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Îòâåò: psi=" << this->psi << endl;
+		"Answer: psi=" << this->psi << endl;
 	return;
 }
 
@@ -364,9 +364,9 @@ void Var10::Run() {
 	return;
 }
 void Var10::Print(void) {
-	cout << "Çíà÷åíèÿ ïîëåé êëàññà:" << endl <<
+	cout << "Class fields values:" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Îòâåò: b=" << this->b << endl;
+		"Answer: b=" << this->b << endl;
 	return;
 }
 
@@ -404,9 +404,9 @@ void Var11::Run(void) {
 	return;
 }
 void Var11::Print(void) {
-	cout << "Çíà÷åíèÿ ïîëåé êëàññà:" << endl <<
+	cout << "Class fields values:" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Îòâåò: c=" << this->c << endl;
+		"Answer: c=" << this->c << endl;
 	return;
 }
 
@@ -439,9 +439,9 @@ void Var12::Run(void) {
 	return;
 }
 void Var12::Print(void) {
-	cout << "Çíà÷åíèÿ ïîëåé êëàññà:" << endl <<
+	cout << "Class fields values:" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Îòâåò: f=" << this->f << endl;
+		"Answer: f=" << this->f << endl;
 	return;
 }
 
@@ -475,9 +475,9 @@ void Var13::Run(void) {
 		pow(this->x + 1., -1. / sin(this->z));
 }
 void Var13::Print(void) {
-	cout << "Çíà÷åíèÿ ïîëåé êëàññà:" << endl <<
+	cout << "Class fields values:" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Îòâåò: g=" << this->g << endl;
+		"Answer: g=" << this->g << endl;
 	return;
 }
 
@@ -514,9 +514,9 @@ void Var14::Run() {
 	return;
 }
 void Var14::Print(void) {
-	cout << "Çíà÷åíèÿ ïîëåé êëàññà:" << endl <<
+	cout << "Class fields values:" << endl <<
 		"x=" << this->x << "\ty=" << this->y << "\tz=" << this->z << endl <<
-		"Îòâåò: h=" << this->h << endl;
+		"Answer: h=" << this->h << endl;
 	return;
 }
 
